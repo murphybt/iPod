@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518796375 source:/Users/barrymurphy/Documents/UCD/Semester2/SoftwareEng/Assignment/main.c
+	<stdio.h>
+	<string.h>
+
